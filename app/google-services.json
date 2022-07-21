@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856396896242",
+    "firebase_url": "https://touragency-23f70-default-rtdb.firebaseio.com",
+    "project_id": "touragency-23f70",
+    "storage_bucket": "touragency-23f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856396896242:android:adf2776fc9ec87bc033d6b",
+        "android_client_info": {
+          "package_name": "com.example.hassamtouragency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856396896242-juf1e0undeh5tsh6afcug1h9unup8tl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiU-Genv1aVU0UKIEH_ysJ9B7QFd0clAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856396896242-juf1e0undeh5tsh6afcug1h9unup8tl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
